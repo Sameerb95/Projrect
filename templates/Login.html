@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+</head>
+<body>
+    {% with messages = get_flashed_messages() %}
+         {% if messages %}
+            {% for message in messages %}
+            <h2 style="color: red;">{{ message }}</h2>
+            {% endfor %}
+         {% endif %}
+    {% endwith %}
+    <h2> Enter Your Credentials to Login</h2>
+    <form action = "{{ url_for('loginUser')}}" method = "post">
+        <label for = "FName"><H2> Email </H2></label>
+        <input type = text id = "LoginEmail" name="LoginEmail"><br>
+        <label for = "LName"><h2> Password </h2></label>
+        <input type = text id = "LoginPass" name="LoginPass"><br><br>
+        <button type="submit">Login</button>
+</body>
+</html>

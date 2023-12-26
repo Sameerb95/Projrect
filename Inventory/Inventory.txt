@@ -1,0 +1,208 @@
+english
+Fruits
+Flowers
+"Puja ki Supari"
+Sweet
+"Betel leaves (Pan ke patte)"
+"Shringar Items for Devi Parvati"
+Kumkum
+"Small candle for diya"
+"Panchamrut (milk+yogurt+ghee+sugar+honey+tulsi)"
+Sweets
+Milk
+"Shringaar pack<"
+"Betel nuts/supari"
+"Betel leaves/paan"
+"Panchamrit (ghee, honey, sugar, milk, yogurt)"
+Coconut
+"Janoi/ yagnopaveetham /white thread"
+"Picture of the deceased"
+Jav
+"Til(sesame seeds)"
+"Betel leaves /paan"
+"2’*2’ black fabric"
+"Loose coins"
+"Dry coconut"
+"Hawan samagri"
+"White thread/ yagnopaveetham"
+"Black sesame seeds"
+"Panchamrut (milk+yogurt+ghee+sugar+honey)"
+Prasad
+"Shringar package"
+Janoi
+Mauli
+"Pushpa mala/ garland"
+Panchamrit
+"Sesame seeds/til"
+Supari
+"Cheda-chedi cloth (piece of cloth)"
+"Flowers (bunch)"
+"Small flower garland"
+"Paan patta (pooja ke paan)"
+"Fresh coconut"
+"Rice kheer/ rice pudding"
+"Red thread / Mauli"
+"Sweets (can be purchased from the temple)"
+Chandan
+Gulal
+"Nada Cheddi"
+"Incense sticks (agarbatti)"
+"Cotton balls"
+Matchbox
+Ghee
+"Clay Diya"
+"Dry Fruits"
+"Dry coconut shell"
+"Ganga jal"
+Cloves
+Cardamom
+"Pan patta= 10"
+Flower
+"Mogra garland (if available)"
+"Paper Napkins"
+"Disposable bowl"
+"Disposable plates"
+Thali
+Katori
+Spoons
+"Asan or sheet to sit on"
+Panchamrut(milk+yogurt+ghee+honey+sugar)
+"Other items according to your customs"
+"Panchamrut (milk, yogurt, ghee, honey & sugar)"
+"Bel patra"
+"Red thread /Mauli"
+"Chandan powder/ Sandalwood powder"
+"Red thread"
+Rice
+"Panchamrit (milk, ghee, sugar, honey, yogurt)"
+"White (Janoi) thread / Yagno pavitam"
+"Betel nut/ supari"
+"Agarbatti ( incense sticks)"
+"Betel leaves/ paan"
+"Dry fruits or sweets"
+"Steel plates"
+"Steel bowls"
+"Steel spoon"
+"Aasan (seat)"
+Diya’s
+"Cotton for batti/wick"
+"Kumkum, chandan, gulal"
+"Paan patta"
+"Coconut (nariyal)"
+"Nav Dhan"
+Til
+"Havan samagri package"
+Karpoor
+"Aluminum Foil"
+"Disposable bowls"
+"Disposable dish"
+Panchamrut
+"Betel Leaves (paan)"
+"Betel Nut(supari)"
+"Sweets for prasad"
+"Tulsi Leaves (holy Basil)"
+"Small bowls"
+"Gangajal ( available at Indian stores)"
+"Jow (Barley with husk)"
+"Black Til ( black sesame seeds)"
+"Agarbatti (incense sticks)"
+"Steel spoons"
+"Chowrang (small table)"
+"Chandan, Kumkum, Abil, Gulal, Mauli"
+"Incense Sticks"
+"Cotton Batti for Diya"
+"Coconut (fresh)"
+"Red cloth"
+"Yellow fabric"
+"White fabric"
+"Gud (jaggery)"
+Karpoor/Camphor
+"Pack of Havan Samagri"
+"Til (sesame seeds)"
+"Disposable dishes"
+"Foil tray"
+"Paan patta (Betel leaf)"
+Asan
+"Clay pot or Kalash"
+"Ganesh ji or Kuldevi picture"
+"Panch Ratna, Panch Dhatu or Vastu Murti"
+"Copper pot(small)"
+"Flowers, Fruits (11)"
+"Panchamrut (milk, yogurt, ghee, sugar, honey)"
+"Thali (plates)"
+"Small steel plate"
+"Clean water for pooja"
+"Paan (Betel leaves)"
+"New pair of scissors"
+"Ziplock bag"
+"Small piece of cloth (any color)"
+"Pan patta"
+"Rice flour"
+"Vastra Daan"
+"Photo of the deceased person"
+"Names of deceased ancestors"
+"Paper napkin roll"
+Sindoor
+Haldi
+"Red thread/ mauli"
+"White thread / Yagnopaveetham"
+"Agarbatti/ incense stick"
+"Cotton Wick/ Batti for Diya"
+"Betelnut (supari)"
+"Ghee 200 gram"
+"Rice 200 gram"
+camphor/karpoor
+"Change coins"
+"Red cloth 1 1/4 meters"
+jaggery
+"Spade for digging the ground"
+Bricks
+"Panchratan/5 gems"
+"Metal snake small"
+Swastik
+Panchdhatu
+Kalash
+Aasan
+"Ganesh ji and kuldevi picture"
+chowki
+Water
+"Copper pot/Kalash"
+"Slate (for writing) + chalk"
+"Notebook + pen"
+"Sweets ( can be purchased from the temple)"
+"Steel Thali (steel plates)"
+"Katori (steel bowl)"
+"Mixed fruit prasad"
+"Ganesh ji murti or picture"
+"Satyanarayan ji murti or picture"
+"Small plastic bowls"
+"Drinking water"
+"Big bowl to empty water"
+"Aasan for Pandit ji and Yajman"
+"Paper Napkin or cloth napkins"
+"Kanku powder (Red)"
+"Cotton Cloth"
+"Ganeshji idol (Murti)"
+"Red piece of cloth"
+"Bajot (for sitting)"
+"Nada cheddi cloth"
+"Ring for ceremony"
+"Janoi thread (yagnopavit)"
+Wheat
+Diya
+"Gangajal (holy water)"
+"Clay pot or copper pot (for Griha Pravesh)"
+"Small styrofoam bowl"
+Thali(plates)
+"Katori (steel bowls)"
+"Panchamrut (milk. Yogurt, sugar, honey, ghee)"
+"1 jug full of clean water"
+"Variety of flowers"
+"Fresh flowers"
+"Paan patta (nagarvel pan)"
+Lemons
+"Panchamrut (Yogurt, sugar, honey, ghee)"
+"1 jug full clean water"
+"Havan Samagri"
+"Wood sticks"
+Gugal
